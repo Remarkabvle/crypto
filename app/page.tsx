@@ -23,7 +23,7 @@ export default function HomePage() {
       {/* Hero Section */}
       <section className="relative min-h-screen flex items-center justify-center overflow-hidden">
         <div className="absolute inset-0 bg-gradient-to-r from-blue-600/20 to-purple-600/20" />
-        <div className="absolute inset-0 bg-[url('/placeholder.svg?height=1080&width=1920')] bg-cover bg-center opacity-10" />
+        <div className="absolute inset-0 bg-[url('/hero.png?height=1080&width=1920')] bg-cover bg-center opacity-10" />
 
         <div className="relative z-10 text-center px-4 max-w-4xl mx-auto">
           <div data-aos="fade-up">
